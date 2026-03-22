@@ -1,0 +1,7 @@
+project_id = "hxrrxgppptltoflenzjs"
+
+[functions.run-code]
+verify_jwt = false
+
+[functions.ai-assistant]
+verify_jwt = false
